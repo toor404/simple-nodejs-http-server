@@ -33,7 +33,7 @@ const mimeTypes = {
 };
 
 // Hostname and Port
-const hostname = '127.0.0.1';
+const hostname = '0.0.0.0';
 const port = 3000;
 
 // Create Server
